@@ -4,3 +4,6 @@
 [submodule "spark-service"]
 	path = spark-service
 	url = git@github.com:shihsunl/14848_cloud_infra_proj_spark.git
+[submodule "jupyter-service"]
+	path = jupyter-service
+	url = git@github.com:shihsunl/14848_cloud_infra_proj_jupyter.git
