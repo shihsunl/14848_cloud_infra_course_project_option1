@@ -5,6 +5,13 @@
 
 -------
 
+## GCP Kubernetes
+### Workloads
+![workloads](screenshot/workloads.png)
+
+### Service
+![service](screenshot/service.png)
+
 ## Service
 ### Service Website
 - Deploy Service Website to Google Cloud Platform Kubernetes Cluster
