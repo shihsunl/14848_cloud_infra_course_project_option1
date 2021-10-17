@@ -7,12 +7,14 @@
 
 ## GCP Kubernetes
 ### Workloads
+- Please follow the instructions in each service repo to apply developments
 ![workloads](screenshot/workloads.png)
 
 ### Service
+- Please follow the instructions in each service repo to create services
 ![service](screenshot/service.png)
 
-## Service
+## Services
 ### Service Website
 - Deploy Service Website to Google Cloud Platform Kubernetes Cluster
 https://github.com/shihsunl/14848_cloud_infra_proj_driver
