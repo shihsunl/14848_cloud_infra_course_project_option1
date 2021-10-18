@@ -21,7 +21,7 @@ https://github.com/shihsunl/14848_cloud_infra_proj_driver
 ![website](screenshot/website.png)
 
 - I've used Reverse Proxy to make different url paths redirect to different services. For instance, when you use `34.135.47.138/spark`, it will redirect to `http://spark-service` which is the spark service with port 8080. You can check `https://github.com/shihsunl/14848_cloud_infra_proj_spark/blob/master/resource-manifests/service-spark.yaml` for more detail.
-![reverse_proxy](screenshot/reverse_proxy.png)
+![reverse_proxy](screenshot/reverse_proxy_img.png)
 
 ### Jupyter
 - Deploy Jupyter to Google Cloud Platform Kubernetes Cluster
