@@ -1,5 +1,8 @@
 # 14848_cloud_infra_course_project_option1
 
+## Demo Video
+- https://github.com/shihsunl/14848_cloud_infra_course_project_option1/blob/master/demo_video_url.txt
+
 ## System architecture
 ![System architecture](screenshot/system_architecture.png)
 
